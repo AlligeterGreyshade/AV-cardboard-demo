@@ -20,4 +20,6 @@
 
 # `Credits: Discord: Alligeter, Alligeter_reborn, thegator3`
 
-# Dont make false claims of ownership.
+# Dont claim owmership over the Original (this) project.
+
+# Making Modded versions is allowed ONLY if major changes are made.
